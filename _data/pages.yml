@@ -3,8 +3,6 @@ pages:
   url: /
 #- title: News
 #  url: news
-- title: People
-  url: people
 - title: Talk & Learn
   url: talk-learn
 - title: Topic of the Month
@@ -13,6 +11,8 @@ pages:
   url: blogpost
 - title: Challengs & Wins 
   url: challenge-win-prizes
+- title: People
+  url: people
 - title: Links
   url: links
 #- title: Download
