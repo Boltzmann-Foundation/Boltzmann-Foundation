@@ -3,11 +3,11 @@
 
 __DISCOVERIST__
 
-* [Mark](https://boltzmann-foundation.org) 
-* [Dr. MD](http://people) (Taiwan)
+* [Mark](https://www.linkedin.com/in/mark-liao/)
+* [Dr. MD](https://boltzmann-foundation.org) (Taiwan)
 
 __EXPLORIST__
-* [New menber](http://people) (Taiwan)
+* [New member](http://people) (Taiwan)
 
 __Join Us__
 
